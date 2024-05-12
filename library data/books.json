@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Machine Learning",
+        "author": "Vishal",
+        "isbn": "2278458557",
+        "is_checked_out": false
+    },
+    {
+        "title": "Data Analytics",
+        "author": "VDP",
+        "isbn": "203",
+        "is_checked_out": false
+    },
+    {
+        "title": "C plus plus",
+        "author": "Amit G",
+        "isbn": "205",
+        "is_checked_out": false
+    },
+    {
+        "title": "Java",
+        "author": "Modi G",
+        "isbn": "206",
+        "is_checked_out": false
+    },
+    {
+        "title": "Go Programming",
+        "author": "Rahul",
+        "isbn": "207",
+        "is_checked_out": false
+    }
+]
